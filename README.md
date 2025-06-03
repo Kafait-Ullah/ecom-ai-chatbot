@@ -1,2 +1,1 @@
-# ecom-ai-chatbot
-A full-stack e-commerce chatbot with FAQ, recommendations, and order tracking
+# EcomAI Chatbot\n\nA full-stack e-commerce chatbot built with Next.js, LangChain, and FAISS.

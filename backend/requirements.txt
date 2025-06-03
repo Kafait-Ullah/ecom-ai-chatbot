@@ -1,0 +1,7 @@
+langchain
+openai
+faiss-cpu
+fastapi
+uvicorn
+pandas
+pytest
