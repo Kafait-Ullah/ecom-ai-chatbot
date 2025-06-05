@@ -1,0 +1,101 @@
+product_id,name,description,price,category
+1,Wireless Mouse,High-quality wireless mouse for everyday use.,312.59,Electronics
+2,Mechanical Keyboard,High-quality mechanical keyboard for everyday use.,156.62,Electronics
+3,USB-C Hub,High-quality usb-c hub for everyday use.,153.52,Electronics
+4,Ergonomic Chair,High-quality ergonomic chair for everyday use.,184.38,Electronics
+5,Desk Lamp,High-quality desk lamp for everyday use.,102.22,Electronics
+6,Monitor Stand,High-quality monitor stand for everyday use.,328.44,Electronics
+7,Laptop Sleeve,High-quality laptop sleeve for everyday use.,255.99,Electronics
+8,External SSD,High-quality external ssd for everyday use.,117.09,Electronics
+9,Noise Cancelling Headphones,High-quality noise cancelling headphones for everyday use.,212.31,Electronics
+10,Bluetooth Speaker,High-quality bluetooth speaker for everyday use.,381.98,Electronics
+11,Smartwatch,High-quality smartwatch for everyday use.,124.87,Electronics
+12,Fitness Tracker,High-quality fitness tracker for everyday use.,296.24,Electronics
+13,Action Camera,High-quality action camera for everyday use.,168.82,Electronics
+14,Drone,High-quality drone for everyday use.,172.91,Electronics
+15,Portable Projector,High-quality portable projector for everyday use.,163.42,Electronics
+16,Gaming Laptop,High-quality gaming laptop for everyday use.,141.86,Electronics
+17,Desktop PC,High-quality desktop pc for everyday use.,159.92,Electronics
+18,Graphics Card,High-quality graphics card for everyday use.,257.05,Electronics
+19,Webcam,High-quality webcam for everyday use.,397.24,Electronics
+20,Microphone,High-quality microphone for everyday use.,433.09,Electronics
+21,Router,High-quality router for everyday use.,481.41,Home & Kitchen
+22,Mesh Wi-Fi System,High-quality mesh wi-fi system for everyday use.,421.03,Home & Kitchen
+23,Smart Plug,High-quality smart plug for everyday use.,67.89,Home & Kitchen
+24,Security Camera,High-quality security camera for everyday use.,247.63,Home & Kitchen
+25,Video Doorbell,High-quality video doorbell for everyday use.,173.89,Home & Kitchen
+26,Coffee Maker,High-quality coffee maker for everyday use.,478.34,Home & Kitchen
+27,Blender,High-quality blender for everyday use.,431.34,Home & Kitchen
+28,Toaster,High-quality toaster for everyday use.,104.62,Home & Kitchen
+29,Air Fryer,High-quality air fryer for everyday use.,463.41,Home & Kitchen
+30,Electric Kettle,High-quality electric kettle for everyday use.,496.13,Home & Kitchen
+31,Cookware Set,High-quality cookware set for everyday use.,491.7,Home & Kitchen
+32,Knife Set,High-quality knife set for everyday use.,380.13,Home & Kitchen
+33,Cutting Board,High-quality cutting board for everyday use.,366.39,Home & Kitchen
+34,Food Processor,High-quality food processor for everyday use.,128.68,Home & Kitchen
+35,Stand Mixer,High-quality stand mixer for everyday use.,479.63,Home & Kitchen
+36,Yoga Mat,High-quality yoga mat for everyday use.,121.23,Sports & Outdoors
+37,Dumbbells,High-quality dumbbells for everyday use.,444.27,Sports & Outdoors
+38,Resistance Bands,High-quality resistance bands for everyday use.,161.33,Sports & Outdoors
+39,Jump Rope,High-quality jump rope for everyday use.,318.83,Sports & Outdoors
+40,Water Bottle,High-quality water bottle for everyday use.,101.49,Sports & Outdoors
+41,Running Shoes,High-quality running shoes for everyday use.,136.44,Sports & Outdoors
+42,Backpack,High-quality backpack for everyday use.,457.41,Sports & Outdoors
+43,Travel Mug,High-quality travel mug for everyday use.,358.29,Sports & Outdoors
+44,Notebook,High-quality notebook for everyday use.,154.2,Sports & Outdoors
+45,Pen Set,High-quality pen set for everyday use.,258.37,Sports & Outdoors
+46,Planner,High-quality planner for everyday use.,146.5,Office Supplies
+47,Desk Organizer,High-quality desk organizer for everyday use.,47.58,Office Supplies
+48,Wall Art,High-quality wall art for everyday use.,305.66,Office Supplies
+49,Picture Frame,High-quality picture frame for everyday use.,488.6,Office Supplies
+50,Scented Candle,High-quality scented candle for everyday use.,490.45,Office Supplies
+51,Throw Blanket,High-quality throw blanket for everyday use.,14.16,Home Decor
+52,Cushion Cover,High-quality cushion cover for everyday use.,50.41,Home Decor
+53,Area Rug,High-quality area rug for everyday use.,158.24,Home Decor
+54,Vase,High-quality vase for everyday use.,192.8,Home Decor
+55,Artificial Plant,High-quality artificial plant for everyday use.,97.78,Home Decor
+56,Board Game,High-quality board game for everyday use.,345.43,Toys & Games
+57,Puzzle,High-quality puzzle for everyday use.,462.71,Toys & Games
+58,Playing Cards,High-quality playing cards for everyday use.,51.05,Toys & Games
+59,Building Blocks,High-quality building blocks for everyday use.,200.58,Toys & Games
+60,Action Figure,High-quality action figure for everyday use.,21.86,Toys & Games
+61,Story Book,High-quality story book for everyday use.,259.31,Toys & Games
+62,Educational Toy,High-quality educational toy for everyday use.,197.46,Toys & Games
+63,Art Supplies,High-quality art supplies for everyday use.,418.6,Toys & Games
+64,Craft Kit,High-quality craft kit for everyday use.,19.47,Toys & Games
+65,Science Kit,High-quality science kit for everyday use.,360.24,Toys & Games
+66,Gardening Gloves,High-quality gardening gloves for everyday use.,219.48,Books & Education
+67,Hand Trowel,High-quality hand trowel for everyday use.,149.38,Books & Education
+68,Pruning Shears,High-quality pruning shears for everyday use.,288.59,Books & Education
+69,Watering Can,High-quality watering can for everyday use.,262.44,Books & Education
+70,Seed Packets,High-quality seed packets for everyday use.,388.91,Books & Education
+71,Toolbox,High-quality toolbox for everyday use.,53.84,Garden & Outdoor
+72,Drill Set,High-quality drill set for everyday use.,22.58,Garden & Outdoor
+73,Screwdriver Set,High-quality screwdriver set for everyday use.,109.57,Garden & Outdoor
+74,Measuring Tape,High-quality measuring tape for everyday use.,305.69,Garden & Outdoor
+75,Level,High-quality level for everyday use.,249.22,Garden & Outdoor
+76,Car Charger,High-quality car charger for everyday use.,183.47,Tools & Home Improvement
+77,Phone Mount,High-quality phone mount for everyday use.,188.47,Tools & Home Improvement
+78,Dash Cam,High-quality dash cam for everyday use.,201.73,Tools & Home Improvement
+79,Tire Inflator,High-quality tire inflator for everyday use.,156.89,Tools & Home Improvement
+80,Jumper Cables,High-quality jumper cables for everyday use.,184.68,Tools & Home Improvement
+81,Pet Food Dispenser,High-quality pet food dispenser for everyday use.,59.29,Automotive
+82,Pet Bed,High-quality pet bed for everyday use.,286.23,Automotive
+83,Pet Leash,High-quality pet leash for everyday use.,369.79,Automotive
+84,Pet Toys,High-quality pet toys for everyday use.,85.36,Automotive
+85,Grooming Kit,High-quality grooming kit for everyday use.,406.81,Automotive
+86,Baby Monitor,High-quality baby monitor for everyday use.,66.33,Pet Supplies
+87,Stroller,High-quality stroller for everyday use.,119.73,Pet Supplies
+88,Car Seat,High-quality car seat for everyday use.,129.5,Pet Supplies
+89,Diaper Bag,High-quality diaper bag for everyday use.,404.96,Pet Supplies
+90,Baby Carrier,High-quality baby carrier for everyday use.,251.62,Pet Supplies
+91,First Aid Kit,High-quality first aid kit for everyday use.,291.31,Baby Products
+92,Bandages,High-quality bandages for everyday use.,64.01,Baby Products
+93,Antiseptic Wipes,High-quality antiseptic wipes for everyday use.,316.98,Baby Products
+94,Pain Relievers,High-quality pain relievers for everyday use.,211.69,Baby Products
+95,Thermometer,High-quality thermometer for everyday use.,105.63,Baby Products
+96,Umbrella,High-quality umbrella for everyday use.,338.4,Health & Household
+97,Rain Jacket,High-quality rain jacket for everyday use.,347.47,Health & Household
+98,Sunscreen,High-quality sunscreen for everyday use.,76.49,Health & Household
+99,Insect Repellent,High-quality insect repellent for everyday use.,254.47,Health & Household
+100,Hand Sanitizer,High-quality hand sanitizer for everyday use.,164.46,Health & Household
