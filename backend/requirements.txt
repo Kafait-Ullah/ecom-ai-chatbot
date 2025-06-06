@@ -1,6 +1,7 @@
 langchain
 openai
 faiss-cpu
+sentence-transformers
 fastapi
 uvicorn
 pandas
