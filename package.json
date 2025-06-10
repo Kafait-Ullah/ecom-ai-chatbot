@@ -3,5 +3,8 @@
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.4",
     "tailwindcss": "^4.1.8"
+  },
+  "dependencies": {
+    "lucide-react": "^0.513.0"
   }
 }
