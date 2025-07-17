@@ -41,6 +41,7 @@ A full-stack e-commerce chatbot with FAQ, product recommendations, and order tra
     ```
     *   Ensure you have Node.js and npm installed.
     *   Install the frontend dependencies.
+    *   The frontend is built using Next.js, a React framework for building web applications.
 
 4.  **Configuration:**
 

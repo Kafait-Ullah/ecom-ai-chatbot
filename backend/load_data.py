@@ -5,7 +5,7 @@ from langchain_huggingface.embeddings.huggingface import HuggingFaceEmbeddings
 
 
 # Load CSV data
-loader = CSVLoader(file_path="./data/faqs.csv")
+loader = CSVLoader(file_path="../data/faqs.csv")
 documents = loader.load()
 
 # Create embeddings using sentence-transformers
