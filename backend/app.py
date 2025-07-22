@@ -52,7 +52,7 @@ def knowledge_base_tool(query: str) -> str:
     Searches the knowledge base for information about products and FAQs.
     Use this tool to answer questions about product details, recommendations, and common questions.
     """
-    results = vector_store.similarity_search(query, k=3)
+    results = vector_store.similarity_search(query, k=3, filter={"source": "product"})
     return "\n".join([res.page_content for res in results]) if results else "No relevant information found."
 
 @tool
@@ -65,8 +65,8 @@ def order_tracking_tool(query: str) -> str:
         if not order.empty:
             return f"The status of order {order_id} is: {order['status'].iloc[0]}"
         else:
-            return f"Order with ID {order_id} not found."
-    return "Could not find a valid order ID in your request. Please provide a valid order ID."
+            return f"I couldn't find an order with the ID {order_id}. Please double-check the number and try again."
+    return "I can help with that! To track your order, please provide your order ID. You can typically find it in the confirmation email you received after placing your order."
 
 tools = [knowledge_base_tool, order_tracking_tool]
 

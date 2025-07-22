@@ -99,6 +99,8 @@ You're all set! Now, let's get the chatbot running.
     flask run
     ```
 
+    > **Note for Windows Users:** The Flask development server's auto-reloader can sometimes crash on Windows. If you experience this issue, you can either restart the server manually or run it without the reloader using the `flask run --no-reload` command. This issue does not affect the application when it's deployed to a production environment.
+
 -   **Start the Frontend Server:**
 
     ```bash

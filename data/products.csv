@@ -1,101 +1,101 @@
 product_id,name,description,price,category
-1,Wireless Mouse,High-quality wireless mouse for everyday use.,312.59,Electronics
-2,Mechanical Keyboard,High-quality mechanical keyboard for everyday use.,156.62,Electronics
-3,USB-C Hub,High-quality usb-c hub for everyday use.,153.52,Electronics
-4,Ergonomic Chair,High-quality ergonomic chair for everyday use.,184.38,Electronics
-5,Desk Lamp,High-quality desk lamp for everyday use.,102.22,Electronics
-6,Monitor Stand,High-quality monitor stand for everyday use.,328.44,Electronics
-7,Laptop Sleeve,High-quality laptop sleeve for everyday use.,255.99,Electronics
-8,External SSD,High-quality external ssd for everyday use.,117.09,Electronics
-9,Noise Cancelling Headphones,High-quality noise cancelling headphones for everyday use.,212.31,Electronics
-10,Bluetooth Speaker,High-quality bluetooth speaker for everyday use.,381.98,Electronics
-11,Smartwatch,High-quality smartwatch for everyday use.,124.87,Electronics
-12,Fitness Tracker,High-quality fitness tracker for everyday use.,296.24,Electronics
-13,Action Camera,High-quality action camera for everyday use.,168.82,Electronics
-14,Drone,High-quality drone for everyday use.,172.91,Electronics
-15,Portable Projector,High-quality portable projector for everyday use.,163.42,Electronics
-16,Gaming Laptop,High-quality gaming laptop for everyday use.,141.86,Electronics
-17,Desktop PC,High-quality desktop pc for everyday use.,159.92,Electronics
-18,Graphics Card,High-quality graphics card for everyday use.,257.05,Electronics
-19,Webcam,High-quality webcam for everyday use.,397.24,Electronics
-20,Microphone,High-quality microphone for everyday use.,433.09,Electronics
-21,Router,High-quality router for everyday use.,481.41,Home & Kitchen
-22,Mesh Wi-Fi System,High-quality mesh wi-fi system for everyday use.,421.03,Home & Kitchen
-23,Smart Plug,High-quality smart plug for everyday use.,67.89,Home & Kitchen
-24,Security Camera,High-quality security camera for everyday use.,247.63,Home & Kitchen
-25,Video Doorbell,High-quality video doorbell for everyday use.,173.89,Home & Kitchen
-26,Coffee Maker,High-quality coffee maker for everyday use.,478.34,Home & Kitchen
-27,Blender,High-quality blender for everyday use.,431.34,Home & Kitchen
-28,Toaster,High-quality toaster for everyday use.,104.62,Home & Kitchen
-29,Air Fryer,High-quality air fryer for everyday use.,463.41,Home & Kitchen
-30,Electric Kettle,High-quality electric kettle for everyday use.,496.13,Home & Kitchen
-31,Cookware Set,High-quality cookware set for everyday use.,491.7,Home & Kitchen
-32,Knife Set,High-quality knife set for everyday use.,380.13,Home & Kitchen
-33,Cutting Board,High-quality cutting board for everyday use.,366.39,Home & Kitchen
-34,Food Processor,High-quality food processor for everyday use.,128.68,Home & Kitchen
-35,Stand Mixer,High-quality stand mixer for everyday use.,479.63,Home & Kitchen
-36,Yoga Mat,High-quality yoga mat for everyday use.,121.23,Sports & Outdoors
-37,Dumbbells,High-quality dumbbells for everyday use.,444.27,Sports & Outdoors
-38,Resistance Bands,High-quality resistance bands for everyday use.,161.33,Sports & Outdoors
-39,Jump Rope,High-quality jump rope for everyday use.,318.83,Sports & Outdoors
-40,Water Bottle,High-quality water bottle for everyday use.,101.49,Sports & Outdoors
-41,Running Shoes,High-quality running shoes for everyday use.,136.44,Sports & Outdoors
-42,Backpack,High-quality backpack for everyday use.,457.41,Sports & Outdoors
-43,Travel Mug,High-quality travel mug for everyday use.,358.29,Sports & Outdoors
-44,Notebook,High-quality notebook for everyday use.,154.2,Sports & Outdoors
-45,Pen Set,High-quality pen set for everyday use.,258.37,Sports & Outdoors
-46,Planner,High-quality planner for everyday use.,146.5,Office Supplies
-47,Desk Organizer,High-quality desk organizer for everyday use.,47.58,Office Supplies
-48,Wall Art,High-quality wall art for everyday use.,305.66,Office Supplies
-49,Picture Frame,High-quality picture frame for everyday use.,488.6,Office Supplies
-50,Scented Candle,High-quality scented candle for everyday use.,490.45,Office Supplies
-51,Throw Blanket,High-quality throw blanket for everyday use.,14.16,Home Decor
-52,Cushion Cover,High-quality cushion cover for everyday use.,50.41,Home Decor
-53,Area Rug,High-quality area rug for everyday use.,158.24,Home Decor
-54,Vase,High-quality vase for everyday use.,192.8,Home Decor
-55,Artificial Plant,High-quality artificial plant for everyday use.,97.78,Home Decor
-56,Board Game,High-quality board game for everyday use.,345.43,Toys & Games
-57,Puzzle,High-quality puzzle for everyday use.,462.71,Toys & Games
-58,Playing Cards,High-quality playing cards for everyday use.,51.05,Toys & Games
-59,Building Blocks,High-quality building blocks for everyday use.,200.58,Toys & Games
-60,Action Figure,High-quality action figure for everyday use.,21.86,Toys & Games
-61,Story Book,High-quality story book for everyday use.,259.31,Toys & Games
-62,Educational Toy,High-quality educational toy for everyday use.,197.46,Toys & Games
-63,Art Supplies,High-quality art supplies for everyday use.,418.6,Toys & Games
-64,Craft Kit,High-quality craft kit for everyday use.,19.47,Toys & Games
-65,Science Kit,High-quality science kit for everyday use.,360.24,Toys & Games
-66,Gardening Gloves,High-quality gardening gloves for everyday use.,219.48,Books & Education
-67,Hand Trowel,High-quality hand trowel for everyday use.,149.38,Books & Education
-68,Pruning Shears,High-quality pruning shears for everyday use.,288.59,Books & Education
-69,Watering Can,High-quality watering can for everyday use.,262.44,Books & Education
-70,Seed Packets,High-quality seed packets for everyday use.,388.91,Books & Education
-71,Toolbox,High-quality toolbox for everyday use.,53.84,Garden & Outdoor
-72,Drill Set,High-quality drill set for everyday use.,22.58,Garden & Outdoor
-73,Screwdriver Set,High-quality screwdriver set for everyday use.,109.57,Garden & Outdoor
-74,Measuring Tape,High-quality measuring tape for everyday use.,305.69,Garden & Outdoor
-75,Level,High-quality level for everyday use.,249.22,Garden & Outdoor
-76,Car Charger,High-quality car charger for everyday use.,183.47,Tools & Home Improvement
-77,Phone Mount,High-quality phone mount for everyday use.,188.47,Tools & Home Improvement
-78,Dash Cam,High-quality dash cam for everyday use.,201.73,Tools & Home Improvement
-79,Tire Inflator,High-quality tire inflator for everyday use.,156.89,Tools & Home Improvement
-80,Jumper Cables,High-quality jumper cables for everyday use.,184.68,Tools & Home Improvement
-81,Pet Food Dispenser,High-quality pet food dispenser for everyday use.,59.29,Automotive
-82,Pet Bed,High-quality pet bed for everyday use.,286.23,Automotive
-83,Pet Leash,High-quality pet leash for everyday use.,369.79,Automotive
-84,Pet Toys,High-quality pet toys for everyday use.,85.36,Automotive
-85,Grooming Kit,High-quality grooming kit for everyday use.,406.81,Automotive
-86,Baby Monitor,High-quality baby monitor for everyday use.,66.33,Pet Supplies
-87,Stroller,High-quality stroller for everyday use.,119.73,Pet Supplies
-88,Car Seat,High-quality car seat for everyday use.,129.5,Pet Supplies
-89,Diaper Bag,High-quality diaper bag for everyday use.,404.96,Pet Supplies
-90,Baby Carrier,High-quality baby carrier for everyday use.,251.62,Pet Supplies
-91,First Aid Kit,High-quality first aid kit for everyday use.,291.31,Baby Products
-92,Bandages,High-quality bandages for everyday use.,64.01,Baby Products
-93,Antiseptic Wipes,High-quality antiseptic wipes for everyday use.,316.98,Baby Products
-94,Pain Relievers,High-quality pain relievers for everyday use.,211.69,Baby Products
-95,Thermometer,High-quality thermometer for everyday use.,105.63,Baby Products
-96,Umbrella,High-quality umbrella for everyday use.,338.4,Health & Household
-97,Rain Jacket,High-quality rain jacket for everyday use.,347.47,Health & Household
-98,Sunscreen,High-quality sunscreen for everyday use.,76.49,Health & Household
-99,Insect Repellent,High-quality insect repellent for everyday use.,254.47,Health & Household
-100,Hand Sanitizer,High-quality hand sanitizer for everyday use.,164.46,Health & Household
+1,Wireless Mouse,"A sleek, ergonomic wireless mouse with a long-lasting battery. Perfect for everyday use and travel. Features a comfortable grip and precise tracking.",312.59,Electronics
+2,Mechanical Keyboard,"A durable mechanical keyboard with tactile switches for a satisfying typing experience. Features customizable RGB backlighting and a detachable wrist rest.",156.62,Electronics
+3,USB-C Hub,"A versatile USB-C hub with multiple ports, including HDMI, USB-A, and an SD card reader. Perfect for connecting all your devices to your laptop.",153.52,Electronics
+4,Ergonomic Chair,"A comfortable ergonomic chair with adjustable lumbar support, armrests, and height. Perfect for long hours of work or gaming.",184.38,Electronics
+5,Desk Lamp,"A modern LED desk lamp with adjustable brightness and color temperature. Perfect for creating the perfect lighting for any task.",102.22,Electronics
+6,Monitor Stand,"A sturdy monitor stand that raises your monitor to a comfortable viewing height. Features a built-in drawer for storing your office supplies.",328.44,Electronics
+7,Laptop Sleeve,"A stylish and protective laptop sleeve made from durable, water-resistant material. Features a soft, padded interior to keep your laptop safe from scratches.",255.99,Electronics
+8,External SSD,"A fast and reliable external SSD with up to 1TB of storage. Perfect for storing and transferring large files.",117.09,Electronics
+9,Noise Cancelling Headphones,"Immerse yourself in your music with these noise-cancelling headphones. Features a comfortable, over-ear design and a long-lasting battery.",212.31,Electronics
+10,Bluetooth Speaker,"A portable Bluetooth speaker with rich, powerful sound. Perfect for parties, picnics, and outdoor adventures.",381.98,Electronics
+11,Smartwatch,"Stay connected and track your fitness with this stylish smartwatch. Features a heart rate monitor, GPS, and a variety of watch faces.",124.87,Electronics
+12,Fitness Tracker,"Track your steps, calories, and sleep with this slim and lightweight fitness tracker. Features a long-lasting battery and a water-resistant design.",296.24,Electronics
+13,Action Camera,"Capture all your adventures with this rugged and waterproof action camera. Shoots stunning 4K video and features a variety of mounting options.",168.82,Electronics
+14,Drone,"Explore the world from a new perspective with this easy-to-fly drone. Features a high-quality camera and a long-lasting battery.",172.91,Electronics
+15,Portable Projector,"Turn any room into a movie theater with this portable projector. Features a bright, clear picture and a built-in speaker.",163.42,Electronics
+16,Gaming Laptop,"Experience the ultimate gaming performance with this powerful gaming laptop. Features a high-refresh-rate display, a dedicated graphics card, and a customizable RGB keyboard.",141.86,Electronics
+17,Desktop PC,"A powerful desktop PC for work, gaming, and everything in between. Features a fast processor, plenty of RAM, and a spacious hard drive.",159.92,Electronics
+18,Graphics Card,"Upgrade your gaming experience with this powerful graphics card. Features the latest technology for stunning visuals and smooth gameplay.",257.05,Electronics
+19,Webcam,"Look your best on video calls with this high-definition webcam. Features a built-in microphone and a wide-angle lens.",397.24,Electronics
+20,Microphone,"Record crystal-clear audio with this professional-grade microphone. Perfect for podcasting, streaming, and recording music.",433.09,Electronics
+21,Router,"Get fast and reliable Wi-Fi with this powerful router. Features the latest Wi-Fi 6 technology for a smooth and seamless connection.",481.41,Home & Kitchen
+22,Mesh Wi-Fi System,"Eliminate Wi-Fi dead zones with this easy-to-use mesh Wi-Fi system. Provides fast and reliable coverage for your entire home.",421.03,Home & Kitchen
+23,Smart Plug,"Turn any device into a smart device with this easy-to-use smart plug. Control your devices from anywhere with your smartphone.",67.89,Home & Kitchen
+24,Security Camera,"Keep an eye on your home with this high-definition security camera. Features night vision, motion detection, and two-way audio.",247.63,Home & Kitchen
+25,Video Doorbell,"See who's at your door from anywhere with this smart video doorbell. Features a high-definition camera, two-way audio, and motion detection.",173.89,Home & Kitchen
+26,Coffee Maker,"Brew the perfect cup of coffee every time with this programmable coffee maker. Features a built-in grinder and a variety of brew settings.",478.34,Home & Kitchen
+27,Blender,"Make delicious smoothies, soups, and sauces with this powerful blender. Features a variety of speed settings and a large-capacity pitcher.",431.34,Home & Kitchen
+28,Toaster,"Toast your bread to perfection with this stylish and easy-to-use toaster. Features a variety of browning settings and a removable crumb tray.",104.62,Home & Kitchen
+29,Air Fryer,"Enjoy your favorite fried foods with less oil with this easy-to-use air fryer. Features a large capacity and a variety of cooking presets.",463.41,Home & Kitchen
+30,Electric Kettle,"Boil water in minutes with this fast and efficient electric kettle. Features a stylish design and a large capacity.",496.13,Home & Kitchen
+31,Cookware Set,"A complete cookware set with everything you need to cook like a pro. Features a durable, non-stick coating and a variety of pots and pans.",491.7,Home & Kitchen
+32,Knife Set,"A high-quality knife set with everything you need for all your cutting tasks. Features a variety of knives and a stylish wooden block.",380.13,Home & Kitchen
+33,Cutting Board,"A durable and easy-to-clean cutting board. Perfect for all your chopping and slicing needs.",366.39,Home & Kitchen
+34,Food Processor,"A versatile food processor that can handle all your food prep tasks. Features a variety of blades and a large-capacity bowl.",128.68,Home & Kitchen
+35,Stand Mixer,"A powerful stand mixer that can handle all your baking needs. Features a variety of attachments and a large-capacity bowl.",479.63,Home & Kitchen
+36,Yoga Mat,"A comfortable and supportive yoga mat. Perfect for all your yoga and Pilates needs.",121.23,Sports & Outdoors
+37,Dumbbells,"A set of adjustable dumbbells. Perfect for a variety of strength training exercises.",444.27,Sports & Outdoors
+38,Resistance Bands,"A set of resistance bands for a variety of strength training exercises. Perfect for home workouts and travel.",161.33,Sports & Outdoors
+39,Jump Rope,"A high-quality jump rope for a great cardio workout. Features a comfortable grip and an adjustable length.",318.83,Sports & Outdoors
+40,Water Bottle,"A durable and leak-proof water bottle. Perfect for staying hydrated on the go.",101.49,Sports & Outdoors
+41,Running Shoes,"A comfortable and supportive pair of running shoes. Perfect for all your running and training needs.",136.44,Sports & Outdoors
+42,Backpack,"A spacious and durable backpack. Perfect for school, work, and travel.",457.41,Sports & Outdoors
+43,Travel Mug,"A stylish and insulated travel mug. Perfect for keeping your coffee hot on the go.",358.29,Sports & Outdoors
+44,Notebook,"A high-quality notebook with a durable cover and plenty of pages. Perfect for taking notes and journaling.",154.2,Sports & Outdoors
+45,Pen Set,"A stylish and high-quality pen set. Perfect for all your writing needs.",258.37,Sports & Outdoors
+46,Planner,"A stylish and functional planner. Perfect for staying organized and on track.",146.5,Office Supplies
+47,Desk Organizer,"A stylish and functional desk organizer. Perfect for keeping your desk neat and tidy.",47.58,Office Supplies
+48,Wall Art,"A beautiful piece of wall art to brighten up any room. Features a modern design and a high-quality print.",305.66,Office Supplies
+49,Picture Frame,"A stylish and high-quality picture frame. Perfect for displaying your favorite photos.",488.6,Office Supplies
+50,Scented Candle,"A beautiful scented candle to create a relaxing and inviting atmosphere. Features a long-lasting burn and a variety of scents.",490.45,Office Supplies
+51,Throw Blanket,"A soft and cozy throw blanket. Perfect for snuggling up on the couch.",14.16,Home Decor
+52,Cushion Cover,"A stylish and high-quality cushion cover. Perfect for adding a pop of color to your home decor.",50.41,Home Decor
+53,Area Rug,"A beautiful and durable area rug. Perfect for adding warmth and style to any room.",158.24,Home Decor
+54,Vase,"A stylish and high-quality vase. Perfect for displaying your favorite flowers.",192.8,Home Decor
+55,Artificial Plant,"A beautiful and realistic artificial plant. Perfect for adding a touch of green to your home decor.",97.78,Home Decor
+56,Board Game,"A fun and challenging board game for the whole family. Perfect for game night.",345.43,Toys & Games
+57,Puzzle,"A beautiful and challenging puzzle. Perfect for a relaxing afternoon.",462.71,Toys & Games
+58,Playing Cards,"A high-quality deck of playing cards. Perfect for all your favorite card games.",51.05,Toys & Games
+59,Building Blocks,"A set of colorful and durable building blocks. Perfect for hours of creative fun.",200.58,Toys & Games
+60,Action Figure,"A detailed and articulated action figure. Perfect for collectors and kids alike.",21.86,Toys &Games
+61,Story Book,"A beautifully illustrated story book. Perfect for bedtime stories.",259.31,Toys & Games
+62,Educational Toy,"A fun and educational toy that will help your child learn and grow. Perfect for kids of all ages.",197.46,Toys & Games
+63,Art Supplies,"A complete set of art supplies for all your creative needs. Perfect for artists of all ages.",418.6,Toys & Games
+64,Craft Kit,"A fun and easy-to-use craft kit. Perfect for a rainy day activity.",19.47,Toys & Games
+65,Science Kit,"A fun and educational science kit. Perfect for kids who love to experiment.",360.24,Toys & Games
+66,Gardening Gloves,"A durable and comfortable pair of gardening gloves. Perfect for all your gardening tasks.",219.48,Books & Education
+67,Hand Trowel,"A sturdy and durable hand trowel. Perfect for all your gardening needs.",149.38,Books & Education
+68,Pruning Shears,"A sharp and durable pair of pruning shears. Perfect for all your pruning needs.",288.59,Books & Education
+69,Watering Can,"A stylish and functional watering can. Perfect for all your watering needs.",262.44,Books & Education
+70,Seed Packets,"A variety of seed packets for all your gardening needs. Perfect for starting your own garden.",388.91,Books & Education
+71,Toolbox,"A spacious and durable toolbox. Perfect for storing all your tools.",53.84,Garden & Outdoor
+72,Drill Set,"A powerful and versatile drill set. Perfect for all your drilling needs.",22.58,Garden & Outdoor
+73,Screwdriver Set,"A high-quality screwdriver set with a variety of bits. Perfect for all your screwdriving needs.",109.57,Garden & Outdoor
+74,Measuring Tape,"A durable and accurate measuring tape. Perfect for all your measuring needs.",305.69,Garden & Outdoor
+75,Level,"A sturdy and accurate level. Perfect for all your leveling needs.",249.22,Garden & Outdoor
+76,Car Charger,"A fast and reliable car charger. Perfect for charging your devices on the go.",183.47,Tools & Home Improvement
+77,Phone Mount,"A sturdy and secure phone mount. Perfect for using your phone as a GPS in the car.",188.47,Tools & Home Improvement
+78,Dash Cam,"A high-definition dash cam to record all your drives. Features a wide-angle lens and a built-in G-sensor.",201.73,Tools & Home Improvement
+79,Tire Inflator,"A portable and easy-to-use tire inflator. Perfect for keeping your tires properly inflated.",156.89,Tools & Home Improvement
+80,Jumper Cables,"A heavy-duty set of jumper cables. Perfect for jump-starting your car.",184.68,Tools & Home Improvement
+81,Pet Food Dispenser,"An automatic pet food dispenser to feed your pet on a schedule. Perfect for busy pet owners.",59.29,Automotive
+82,Pet Bed,"A comfortable and supportive pet bed. Perfect for your furry friend.",286.23,Automotive
+83,Pet Leash,"A durable and comfortable pet leash. Perfect for walking your dog.",369.79,Automotive
+84,Pet Toys,"A variety of fun and durable pet toys. Perfect for keeping your pet entertained.",85.36,Automotive
+85,Grooming Kit,"A complete grooming kit for your pet. Perfect for keeping your pet clean and healthy.",406.81,Automotive
+86,Baby Monitor,"A high-definition baby monitor to keep an eye on your little one. Features night vision and two-way audio.",66.33,Pet Supplies
+87,Stroller,"A lightweight and easy-to-use stroller. Perfect for walks in the park.",119.73,Pet Supplies
+88,Car Seat,"A safe and comfortable car seat for your child. Features a 5-point harness and side-impact protection.",129.5,Pet Supplies
+89,Diaper Bag,"A spacious and stylish diaper bag. Perfect for carrying all your baby essentials.",404.96,Pet Supplies
+90,Baby Carrier,"A comfortable and supportive baby carrier. Perfect for keeping your baby close.",251.62,Pet Supplies
+91,First Aid Kit,"A complete first aid kit for all your emergency needs. Perfect for home, car, and travel.",291.31,Baby Products
+92,Bandages,"A variety of bandages for all your minor cuts and scrapes. Perfect for your first aid kit.",64.01,Baby Products
+93,Antiseptic Wipes,"A convenient and easy-to-use antiseptic wipe. Perfect for cleaning minor cuts and scrapes.",316.98,Baby Products
+94,Pain Relievers,"A fast-acting pain reliever for all your aches and pains. Perfect for your first aid kit.",211.69,Baby Products
+95,Thermometer,"A fast and accurate thermometer. Perfect for your first aid kit.",105.63,Baby Products
+96,Umbrella,"A durable and windproof umbrella. Perfect for staying dry on a rainy day.",338.4,Health & Household
+97,Rain Jacket,"A waterproof and breathable rain jacket. Perfect for staying dry on a rainy day.",347.47,Health & Household
+98,Sunscreen,"A broad-spectrum sunscreen to protect your skin from the sun's harmful rays. Perfect for a day at the beach.",76.49,Health & Household
+99,Insect Repellent,"A long-lasting insect repellent to protect you from mosquitoes and other biting insects. Perfect for camping and hiking.",254.47,Health & Household
+100,Hand Sanitizer,"A convenient and easy-to-use hand sanitizer. Perfect for keeping your hands clean on the go.",164.46,Health & Household
