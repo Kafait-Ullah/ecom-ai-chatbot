@@ -1,78 +1,125 @@
-# EcomAI Chatbot
+# 🤖 EcomAI Chatbot: Your Intelligent E-commerce Assistant
 
-A full-stack e-commerce chatbot with FAQ, product recommendations, and order tracking.
+Welcome to the future of e-commerce! The EcomAI Chatbot is a smart, conversational AI assistant designed to elevate the customer experience on your online store. It's more than just a chatbot; it's a tireless team member that can answer questions, recommend products, and track orders, 24/7.
 
-## Features
+This project is built with a modern, developer-friendly tech stack and is ready to be customized and deployed to your own e-commerce platform.
 
-- FAQ support using vector store retrieval.
-- Product recommendations based on user queries.
-- Order tracking using CSV data.
+## 🤔 Why EcomAI Chatbot?
 
-## Tech Stack
+In today's competitive e-commerce landscape, providing a seamless and personalized customer experience is key. The EcomAI Chatbot helps you achieve this by:
 
-- Frontend: Next.js
-- Backend: Python, LangChain, OpenAI/Hugging Face, FastAPI
-- Data: CSV files, FAISS vector store
+-   **Boosting Sales:** By providing instant product recommendations and answering customer questions, the chatbot can help guide customers through the sales funnel.
+-   **Reducing Support Costs:** The chatbot can handle a wide range of customer queries, freeing up your human agents to focus on more complex issues.
+-   **Increasing Customer Satisfaction:** With instant, 24/7 support, your customers will feel valued and supported, leading to increased loyalty and retention.
 
-## Setup
+## 🚀 Tech Stack
 
-1.  **Clone the repository:**
-    ```bash
-    git clone <repository_url>
-    cd ecom-ai-chatbot
+The EcomAI Chatbot is built with a powerful and modern tech stack:
+
+### Frontend
+- **React:** A popular JavaScript library for building user interfaces.
+- **Vite:** A fast and lightweight build tool for a great development experience.
+- **TypeScript:** A superset of JavaScript that adds static typing for more robust code.
+- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+
+### Backend
+- **Python:** A versatile and powerful language for backend development.
+- **Flask:** A lightweight and flexible web framework for Python.
+
+### AI & Data
+- **LangChain & LangGraph:** A framework for developing applications powered by language models.
+- **Google AI (Gemini Pro):** A powerful language model for natural language understanding and generation.
+- **Hugging Face:** A platform for state-of-the-art machine learning models.
+- **FAISS:** A library for efficient similarity search and clustering of dense vectors.
+
+## 🚀 Getting Started
+
+Ready to bring your e-commerce store to life? Here's how to get the EcomAI Chatbot up and running.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Kafait-Ullah/ecom-ai-chatbot.git
+cd ecom-ai-chatbot
+```
+
+### 2. Set Up the Backend
+
+```bash
+cd backend
+
+# Create and activate a virtual environment
+python -m venv backend_env
+# On Windows: backend_env\Scripts\activate
+# On macOS/Linux: source backend_env/bin/activate
+
+# Install the required Python packages
+pip install -r requirements.txt
+```
+
+### 3. Set Up the Frontend
+
+```bash
+cd ../frontend
+
+# Install the required npm packages
+npm install
+```
+
+### 4. Configure Your Environment
+
+You'll need a Google AI API key to power the chatbot.
+
+1.  Create a file named `.env` in the root directory of the project.
+2.  Add your API key to the `.env` file:
+
+    ```
+    GEMINI_API_KEY="YOUR_API_KEY_HERE"
     ```
 
-2.  **Backend Setup (Python):**
+### 5. Build the Knowledge Base
+
+This is where the magic happens! Run the following command to build the chatbot's knowledge base from your data.
+
+```bash
+cd backend
+python load_data.py
+```
+
+This will create a `faiss_index` directory in the root of the project.
+
+### 6. Run the Application
+
+You're all set! Now, let's get the chatbot running.
+
+-   **Start the Backend Server:**
+
     ```bash
     cd backend
-    python -m venv backend_env
-    source backend_env/bin/activate  # On Linux/macOS
-    # backend_env\Scripts\activate  # On Windows
-    pip install -r requirements.txt
+    flask run
     ```
-    *   Ensure you have Python 3.9 or higher.
-    *   Create a virtual environment to manage dependencies.
-    *   Install the required packages from `requirements.txt`.
 
-3.  **Frontend Setup (Next.js):**
+-   **Start the Frontend Server:**
+
     ```bash
     cd ../frontend
-    npm install
+    npm run dev
     ```
-    *   Ensure you have Node.js and npm installed.
-    *   Install the frontend dependencies.
-    *   The frontend is built using Next.js, a React framework for building web applications.
 
-4.  **Configuration:**
+    Your chatbot is now live and ready to chat!
 
-    *   Obtain an OpenAI API key or use a free Hugging Face API.
-    *   Set the API key as an environment variable.
+## 🔮 What's Next?
 
-5.  **Running the Application:**
+The EcomAI Chatbot is a powerful tool, but there's always room for improvement. Here are some ideas for future enhancements:
 
-    *   **Backend:**
-        ```bash
-        cd ../backend
-        uvicorn app:app --reload
-        ```
-        This starts the FastAPI backend server. The `--reload` flag enables automatic reloading upon code changes.
+-   **Admin Dashboard:** A dashboard for managing the chatbot's knowledge base and viewing conversation logs.
+-   **More Integrations:** Connect the chatbot to more e-commerce platforms and messaging channels.
+-   **Proactive Messaging:** Allow the chatbot to proactively engage with customers based on their browsing behavior.
 
-    *   **Frontend:**
-        ```bash
-        cd ../frontend
-        npm run dev
-        ```
-        This starts the Next.js development server.
+## 🤝 Contributing
 
-6.  **Access:**
+This is an open-source project, and we welcome contributions from the community! If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request.
 
-    *   The frontend will be running on `http://localhost:3000` (or a similar port).
-    *   The backend API will be running on `http://localhost:8000`.
+## 📄 License
 
-## Usage
-
-Visit the deployed app and interact with the chatbot. Example queries:
-
-- "What's the shipping time?"
-- "Recommend laptops under $1000."
-- "Track order #123."
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

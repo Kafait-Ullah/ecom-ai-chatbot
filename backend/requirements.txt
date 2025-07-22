@@ -1,8 +1,11 @@
 langchain
-openai
 faiss-cpu
 sentence-transformers
-fastapi
-uvicorn
 pandas
 pytest
+Flask
+Flask-Cors
+python-dotenv
+langchain-google-genai
+langchain-huggingface
+langgraph
